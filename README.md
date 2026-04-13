@@ -4,7 +4,7 @@
 
 This project analyses two years of operational staffing data from CRIT Événementiel (Stade de France), covering 55+ events including the Rugby World Cup 2023 and Paris 2024 Olympics. The goal was to identify the root causes of no-shows and lateness in large-scale event staffing and propose data-backed recommendations to reduce operational waste.
 
-Data used with permission from CRIT Événementiel. All personal identifiers have been removed in compliance with GDPR.
+**Data used with permission from CRIT Événementiel. All personal identifiers have been removed in compliance with GDPR.**
 ---
 
 ## Pipeline Architecture
