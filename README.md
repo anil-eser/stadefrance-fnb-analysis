@@ -133,6 +133,6 @@ stadefrance-fnb-overstaffing/
 ## Contact
 
 **Anil Eser** — Data Analyst
-Career transition from copywriting and marketing to data analytics.
+Career transition from creative copywriting to data analytics.
 
 [LinkedIn](https://www.linkedin.com/in/anil-eser-anil)
